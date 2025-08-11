@@ -119,7 +119,7 @@ module.exports = {
   overrides: [
     {
       // Allow this file to have overrides to rules from paranext-core
-      files: ['.eslintrc.*js'],
+      files: ['.eslintrc.*js', '*.html'],
       rules: {
         'no-dupe-keys': 'off',
       },

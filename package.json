@@ -1,10 +1,10 @@
 {
-  "name": "paranext-extension-template",
+  "name": "hello-world",
   "private": true,
   "version": "0.0.1",
   "main": "src/main.js",
-  "types": "src/types/paranext-extension-template.d.ts",
-  "author": "Paranext",
+  "types": "src/types/hello-world.d.ts",
+  "author": "Tom Bogle",
   "license": "MIT",
   "scripts": {
     "build:web-view": "webpack --config ./webpack/webpack.config.web-view.ts",
