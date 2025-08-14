@@ -8,9 +8,9 @@ import type {
   SavedWebViewDefinition,
   WebViewDefinition,
 } from '@papi/core';
-import helloWorld from './web-views/hello-world.web-view?inline';
-import helloWorldReactStyles from './web-views/hello-world.scss?inline';
-import helloWorldHtml from './web-views/hello-world-html.web-view.html?inline';
+import helloWorld from './hello-world.web-view?inline';
+import helloWorldReactStyles from './hello-world.scss?inline';
+import helloWorldHtml from './hello-world-html.web-view.html?inline';
 import type {
   DoStuffEvent,
   ExtensionVerseDataTypes,
